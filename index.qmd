@@ -1,14 +1,16 @@
 ---
-title: "MUSA 550: Final Project Template"
-subtitle: "An example website demonstrating the power of Quarto for sharing analyses on the web"
+title: "MUSA550 Final Project"
+subtitle: "Analyzing Transit-Oriented Development Potential in the Dallas, TX Region"
 ---
 
-## Welcome!
+## Premise
 
-We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.
+<p><img src="./images/dart_rail_map.jpg" alt="DART Light Rail Map" style="float:right;width:600px; border-radius: 10px;"></p>
 
-Quarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.
+The Dallas Area Rapid Transit (DART) system is the public transit agency for the greater Dallas metropolitan region. It provides, among others, light rail, bus, and shuttle service to four counties - Dallas, Tarrant, Collin, and Denton - and a number of cities in the Dallas region.
 
-::: {.callout-important}
-This template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project.
-:::
+The Dallas region has historically, and continues to be, developed in a car-focused manner. The metropolitan region is sprawling with many suburban areas and large highways. However, while car travel is definitely the main method of transportation in the region, DART has shown an interest in supporting transit-oriented development (TOD) in the region around its stations.
+
+Transit-oriented development is development that supports the use of multimodal transportation methods with compact, walkable development and proximity to transit options including, but not limited to, rail, bus, bike, and trails. TOD has become a popular development method in recent decades and is supported in programs by many transit agencies around the country, including SEPTA here in Philadelphia. TOD offers residents better access to more sustainable transit methods and promotes a healthier environment by encouraging walking, biking, public transit use, and more generally a decreased reliance on personal vehicles.
+
+While DART has shown a desire to support TOD, their program is still early in its inception. This project will aim to offer some insight into which stations are most suitable for development based off of different population, development, ridership, and transit service indicators. A source of inspiration for the project was Delaware Valley Regional Planning Commission's <a href="https://www.dvrpc.org/webmaps/tod/#map">Evaluating TOD Opportunities</a> webmap for the greater Philadelphia region, which similarly evaluates TOD opportunities at different stations according to specified metrics. The desired product of this study is a similarly interactive map that ranks DART lightrail stations based on TOD potential.

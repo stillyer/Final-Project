@@ -5,17 +5,15 @@ toc: false
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
 
-<img src="images/Eric.png" alt="Eric Delmelle" style="width: 170px; border-radius: 10px;">
+<img src="./images/stewart.jpg" alt="Stewart Tillyer" style="width: 170px; border-radius: 10px;">
 
 <div>
-  <p><span style="color:red">Hello everyone</span></p>
-  <p>On this about page, you might want to add more information about yourself, the project, or course. </p>
+  <p>My name is **Stewart Tillyer** and I am a second year MCP student at UPenn. My area of focus in the program is urban design. </p>
 
-  - My name is *Eric* **Delmelle**, the instructor for the course. 
-  - You can find more information about me on my [personal website](https://www.design.upenn.edu/people/eric-delmelle).
-  - <span style="color:orange">This site is an example site showing how to use Quarto for the final project for MUSA 550, during fall 2024.</span>
-  - <span style="color:gray">Write something about you</span>
-    - <span style="color:red">or about something you like</span>
+  <p>I am very interested in how the built environment is designed. My academic and professional background is in architecture, but I have always been interested in larger scale design of cities and the many dynamic systems that all cooperate to make them function, which is why I returned to school to study urban planning and design. </p>
+  
+  <p>My most recent interests have been in public transit design and transit oriented development. This interest developed this past summer while I was working in Dallas, Texas. My work primarily involved collaborating with Dallas Area Rapid Transit (DART), the public transit agency for the Dallas metropolitan region, on a variety of transit related projects. My involvement with DART this summer is what gave rise to this project.
+  
 </div>
 
 </div>

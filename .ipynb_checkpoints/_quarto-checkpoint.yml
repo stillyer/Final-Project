@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 3333
+
+website:
+  title: "MUSA 550"
+  page-footer:
+    left: "stillyer@upenn.edu"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  sidebar:
+    logo: "./images/dart_lightrail.jpg"
+    pinned: true
+    align: center
+    tools:
+      - icon: globe
+        href: https://www.design.upenn.edu/people/stewart-tillyer
+        text: "Weitzman Profile"
+      - icon: github
+        href: https://github.com/stillyer
+        text: "Personal Github"
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Overview
+      - about.qmd
+      - section: analysis/index.qmd
+        contents:
+          - analysis/Ridership.ipynb
+          - analysis/StationDevelopment.ipynb
+          - analysis/FinalMap.ipynb
+
+format:
+  html:
+    highlight-style: solarized
+    theme: cosmo
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
+    toc: true

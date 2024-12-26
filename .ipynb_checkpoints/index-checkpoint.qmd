@@ -1,0 +1,16 @@
+---
+title: "MUSA550 Final Project"
+subtitle: "Analyzing Transit-Oriented Development Potential in the Dallas, TX Region"
+---
+
+## Premise
+
+<p><img src="./images/dart_rail_map.jpg" alt="DART Light Rail Map" style="float:right;width:600px; border-radius: 10px;"></p>
+
+The Dallas Area Rapid Transit (DART) system is the public transit agency for the greater Dallas metropolitan region. It provides, among others, light rail, bus, and shuttle service to four counties - Dallas, Tarrant, Collin, and Denton - and a number of cities in the Dallas region.
+
+The Dallas region has historically, and continues to be, developed in a car-focused manner. The metropolitan region is sprawling with many suburban areas and large highways. However, while car travel is definitely the main method of transportation in the region, DART has shown an interest in supporting transit-oriented development (TOD) in the region around its stations.
+
+Transit-oriented development is development that supports the use of multimodal transportation methods with compact, walkable development and proximity to transit options including, but not limited to, rail, bus, bike, and trails. TOD has become a popular development method in recent decades and is supported in programs by many transit agencies around the country, including SEPTA here in Philadelphia. TOD offers residents better access to more sustainable transit methods and promotes a healthier environment by encouraging walking, biking, public transit use, and more generally a decreased reliance on personal vehicles.
+
+While DART has shown a desire to support TOD, their program is still early in its inception. This project will aim to offer some insight into which stations are most suitable for development based off of different population, development, ridership, and transit service indicators. A source of inspiration for the project was Delaware Valley Regional Planning Commission's <a href="https://www.dvrpc.org/webmaps/tod/#map">Evaluating TOD Opportunities</a> webmap for the greater Philadelphia region, which similarly evaluates TOD opportunities at different stations according to specified metrics. The desired product of this study is a similarly interactive map that ranks DART lightrail stations based on TOD potential.
